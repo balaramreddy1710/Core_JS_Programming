@@ -1,1 +1,2 @@
+## Core JS Programming
 JS Programming: REPL, Basic Programming Constructs, Methods of primitives, Numbers, Strings, Arrays, Array methods like forEach, filter, map, reduce, Arrow Functions, Iterables, Map and Set, WeakMap and WeakSet, Destructuring assignment, The old "var" vs "let", etc..
